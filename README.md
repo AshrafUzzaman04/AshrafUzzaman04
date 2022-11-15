@@ -33,9 +33,6 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true)  
-
+   
 ![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true&theme=merko)
 
-![GitHub metrics](https://metrics.lecoq.io/Ashraf-Uzzaman-Mahim)   
