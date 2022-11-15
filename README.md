@@ -1,13 +1,26 @@
 ![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media-exp1.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1674086400&v=beta&t=2XvhncHgOVk42C-t_Qn5VK84erALZuK1TMif8QeIgzo)
 
-## Hi there 👋, my name is Ashraf Uzzaman.
+## Hi, my name is Ashraf Uzzaman👋
 #### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
 
 I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind.
 
-Skills: REACT / JS / HTML / CSS / SASS / PHP / MySQL
+### My Skills & Experiance :
 
-- 🌱 I’m currently learning Javascript 
+✔ HTML
+✔ CSS
+✔ SASS
+✔ BOOSTRAP
+✔ Figma to HTML
+✔ PSD to HTML
+✔ JAVASCRIPT
+✔ TAILWIND CSS
+✔ React.JS
+✔ PHP
+✔ MySQL
+✔ Photoshop
+
+- 🌱 I’m currently learning Javascript & PHP.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashraf-Uzzaman-Mahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraf-uzzaman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraf.uzmahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ashraf_uz_mahim)  
