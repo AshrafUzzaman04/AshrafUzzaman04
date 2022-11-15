@@ -27,12 +27,6 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashraf-Uzzaman-Mahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraf-uzzaman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraf.uzmahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ashraf_uz_mahim)  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/ashraf_uz_mahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashraf_uz_mahim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashraf-uzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf-uzzaman" height="30" width="40" /></a>
 <a href="https://fb.com/ashraf.uzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraf.uzmahim" height="30" width="40" /></a>
