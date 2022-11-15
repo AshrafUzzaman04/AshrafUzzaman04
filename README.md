@@ -36,6 +36,6 @@ I'm a professional web application designer & developer. DM me to work with me a
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true)  
 
-![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true&theme=radical)
+![Ashraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true&theme=onedark)
 
 ![GitHub metrics](https://metrics.lecoq.io/Ashraf-Uzzaman-Mahim)   
