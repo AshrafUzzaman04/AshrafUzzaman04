@@ -5,6 +5,8 @@
 
 I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind.
 
+![Profile views](https://gpvc.arturio.dev/Ashraf-Uzzaman-Mahim) 
+
 ### My Skills & Experiance :
 
 ✔ HTML<br>
@@ -37,6 +39,4 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ashraf-Uzzaman-Mahim)  
-
-![Profile views](https://gpvc.arturio.dev/Ashraf-Uzzaman-Mahim)  
+![GitHub metrics](https://metrics.lecoq.io/Ashraf-Uzzaman-Mahim)   
