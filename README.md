@@ -1,6 +1,7 @@
+![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media-exp1.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1674086400&v=beta&t=2XvhncHgOVk42C-t_Qn5VK84erALZuK1TMif8QeIgzo)
+
 ### Hi there 👋, my name is Ashraf Uzzaman.
 #### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
-![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media-exp1.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1674086400&v=beta&t=2XvhncHgOVk42C-t_Qn5VK84erALZuK1TMif8QeIgzo)
 
 I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind.
 
