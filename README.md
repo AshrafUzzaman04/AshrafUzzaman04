@@ -23,7 +23,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 - 🌱 I’m currently learning Javascript & PHP.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center" style="color:Blue;">A passionate Full-Stack Web application developer from Bangladesh.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
