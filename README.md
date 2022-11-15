@@ -31,13 +31,9 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashraf-Uzzaman-Mahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraf-uzzaman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraf.uzmahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ashraf_uz_mahim)  
 
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true)  
-</div>
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Uzzaman-Mahim&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ashraf-Uzzaman-Mahim)   
