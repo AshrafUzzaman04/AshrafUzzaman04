@@ -8,17 +8,17 @@ I'm a professional web application designer & developer. DM me to work with me a
 ### My Skills & Experiance :
 
 ✔ HTML<br>
-✔ CSS
-✔ SASS
-✔ BOOSTRAP
-✔ Figma to HTML
-✔ PSD to HTML
-✔ JAVASCRIPT
-✔ TAILWIND CSS
-✔ React.JS
-✔ PHP
-✔ MySQL
-✔ Photoshop
+✔ CSS<br>
+✔ SASS<br>
+✔ BOOSTRAP<br>
+✔ Figma to HTML<br>
+✔ PSD to HTML<br>
+✔ JAVASCRIPT<br>
+✔ TAILWIND CSS<br>
+✔ React.JS<br>
+✔ PHP<br>
+✔ MySQL<br>
+✔ Photoshop<br>
 
 - 🌱 I’m currently learning Javascript & PHP.
 
