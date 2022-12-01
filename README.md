@@ -3,7 +3,7 @@
 ## Hi, my name is Ashraf Uzzaman👋
 #### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
 
-I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind.
+I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind..
 
 ![Profile views](https://gpvc.arturio.dev/Ashraf-Uzzaman-Mahim) 
 
