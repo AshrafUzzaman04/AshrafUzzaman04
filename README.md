@@ -30,7 +30,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 <a href="https://twitter.com/ashraf_uz_mahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashraf_uz_mahim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashraf-uzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf-uzzaman" height="30" width="40" /></a>
 <a href="https://fb.com/ashraf.uzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraf.uzmahim" height="30" width="40" /></a>
-<a href="https://instagram.com/ashraf_uzzaman_mahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraf_uzzaman_mahim" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashrafuzzaman04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraf_uzzaman_mahim" height="30" width="40" /></a>
 <a href="https://www.behance.net/ashrafuzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashrafuzmahim" height="30" width="40" /></a>
 </p>
 
