@@ -1,5 +1,4 @@
-![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media-exp1.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1674086400&v=beta&t=2XvhncHgOVk42C-t_Qn5VK84erALZuK1TMif8QeIgzo)
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1674086400&v=beta&t=2XvhncHgOVk42C-t_Qn5VK84erALZuK1TMif8QeIgzo">
+![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1680134400&v=beta&t=lObh37UOaKZdcSOO-DmlrDH9FNoWzp1ALKvWIERI_Bs)
 
 ## Hi, my name is Ashraf Uzzaman👋
 #### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
