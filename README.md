@@ -10,7 +10,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 ### My Skills & Experiance :
 
 <div align="center">
-<table align="left">
+<table>
   <tr><td>✔ HTML</td></tr>
   <tr><td>✔ CSS</td></tr>
   <tr><td>✔ SCSS</td></tr>
@@ -22,7 +22,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ ReactJS</td></tr>
   <tr><td>✔ Tailwind CSS</td></tr>
 </table>
-<table  align="right">
+<table >
   <tr><td>✔ PHP</td></tr>
   <tr><td>✔ MySQL</td></tr>
   <tr><td>✔ Photoshop</td></tr>
