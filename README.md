@@ -21,31 +21,17 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ Tailwind CSS</td></tr>
 </table>
 <table>
-  <tr>
-    <td>✔ HTML</td>
-    <td>✔ CSS</td>
-    <td>✔ SCSS</td>
-    <td>✔ Boostrap</td>
-    <td>✔ Figma to HTML</td>
-    <td>✔ PSD to HTML</td>
-    <td>✔ JAVASCRIPT</td>
-    <td>✔ Jquery</td>
-    <td>✔ ReactJS</td>
-    <td>✔ Tailwind CSS</td>
-  </tr>
-  <tr>  
-    <td>✔ PHP</td>
-    <td>✔ MySQL</td>
-    <td>✔ Photoshop</td>
-    <td>✔ Canva</td>
-    <td>✔ ChatGPT</td>
-    <td>✔ Google-fu</td>
-    <td>✔ WordPress</td>
-    <td>✔ Microsoft Word</td>
-    <td>✔ Powerpoint</td>
-    <td>✔ Excel</td>
-  </tr>  
-  </table>
+  <tr><td>✔ PHP</td></tr>
+  <tr><td>✔ MySQL</td></tr>
+  <tr><td>✔ Photoshop</td></tr>
+  <tr><td>✔ Canva</td></tr>
+  <tr><td>✔ ChatGPT</td></tr>
+  <tr><td>✔ Google-fu</td></tr>
+  <tr><td>✔ WordPress</td></tr>
+  <tr><td>✔ Microsoft Word</td></tr>
+  <tr><td>✔ Powerpoint</td></tr>
+  <tr><td>✔ Excel</td></tr>  
+</table>
 
 🌱 I’m currently learning Javascript, ReactJs & PHP.
 
