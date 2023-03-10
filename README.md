@@ -41,10 +41,6 @@ I'm a professional web application designer & developer. DM me to work with me a
 </p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=dark&hide_border=true)<br/>
