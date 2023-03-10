@@ -9,14 +9,14 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
-✔ HTML<br>✔ React.JS<br>
-✔ CSS<br>✔ PHP<br>
-✔ SASS<br>✔ MySQL<br>
-✔ BOOSTRAP<br>✔ Photoshop<br>
-✔ Figma to HTML<br>✔ Canva<br>
-✔ PSD to HTML<br>✔ ChatGPT<br>
-✔ JAVASCRIPT<br>✔ Google-fu<br>
-✔ Jquery<br>✔ WordPress<br>
+✔ HTML&nbsp;✔ React.JS<br>
+✔ CSS&nbsp;✔ PHP<br>
+✔ SASS&nbsp;✔ MySQL<br>
+✔ BOOSTRAP&nbsp;✔ Photoshop<br>
+✔ Figma to HTML&nbsp;✔ Canva<br>
+✔ PSD to HTML&nbsp;✔ ChatGPT<br>
+✔ JAVASCRIPT&nbsp;✔ Google-fu<br>
+✔ Jquery&nbsp;✔ WordPress<br>
 ✔ TAILWIND CSS<br>
 
 
