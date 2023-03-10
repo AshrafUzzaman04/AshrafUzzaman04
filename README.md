@@ -9,6 +9,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
+<div>
 <table display="inline-block">
   <tr><td>✔ HTML</td></tr>
   <tr><td>✔ CSS</td></tr>
@@ -33,6 +34,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ Powerpoint</td></tr>
   <tr><td>✔ Excel</td></tr>  
 </table>
+  </div>
 
 🌱 I’m currently learning Javascript, ReactJs & PHP.
 
