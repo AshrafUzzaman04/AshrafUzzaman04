@@ -9,8 +9,13 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
+<style>
+  td{
+  display: inline-block;
+  }
+  </style>
 <table>
-  <tr style="border:"none"">
+  <tr>
     <td>✔ HTML</td>
     <td>✔ CSS</td>
     <td>✔ SCSS</td>
