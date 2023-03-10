@@ -9,8 +9,8 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
-<table border=0>
-  <tr>
+<table>
+  <tr style="border:"none"">
     <td>✔ HTML</td>
     <td>✔ CSS</td>
     <td>✔ SCSS</td>
