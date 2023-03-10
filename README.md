@@ -14,37 +14,37 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr>
   <td>✔ HTML</td>
   <td>✔ CSS</td>
+  <td>✔ SCSS</td>
   </tr>
   <tr>
-  <td>✔ SCSS</td>
   <td>✔ Boostrap</td>
   <td>✔ Figma to HTML</td>
+  <td>✔ PSD to HTML</td>
   </tr>
   <tr>
-  <td>✔ PSD to HTML</td>
   <td>✔ JAVASCRIPT</td>
   <td>✔ Jquery</td>
+  <td>✔ ReactJS</td>
   </tr>
   <tr>
-  <td>✔ ReactJS</td>
   <td>✔ Tailwind CSS</td>
   <td>✔ PHP</td>
+  <td>✔ MySQL</td>
   </tr>
   <tr>
-  <td>✔ MySQL</td>
   <td>✔ Photoshop</td>
   <td>✔ Canva</td>
-  </tr>
-  
-  <tr>
   <td>✔ ChatGPT</td>
+  </tr>
+  <tr>
   <td>✔ Google-fu</td>
   <td>✔ WordPress</td>
+  <td>✔ Microsoft Word</td>
   </tr>
   <tr>
-  <td>✔ Microsoft Word</td>
   <td>✔ Powerpoint</td>
   <td>✔ Excel</td>
+  <td>✔ Video Editing</td>
   </tr>  
 </table>
 
