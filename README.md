@@ -13,7 +13,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 ✔ CSS&nbsp;&nbsp;&nbsp;✔ PHP<br>
 ✔ SASS&nbsp;&nbsp;&nbsp;✔ MySQL<br>
 ✔ BOOSTRAP&nbsp;&nbsp;&nbsp;✔ Photoshop<br>
-✔ Figma to HTML&nbsp;&nbsp;&nbsp;✔ Canva<br>
+✔ Figma to HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Canva<br>
 ✔ PSD to HTML&nbsp;&nbsp;&nbsp;✔ ChatGPT<br>
 ✔ JAVASCRIPT&nbsp;&nbsp;&nbsp;✔ Google-fu<br>
 ✔ Jquery&nbsp;&nbsp;&nbsp;✔ WordPress<br>
