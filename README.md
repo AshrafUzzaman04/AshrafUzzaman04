@@ -43,7 +43,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&theme=white&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
