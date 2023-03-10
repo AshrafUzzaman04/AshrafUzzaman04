@@ -8,7 +8,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 ![Profile views](https://gpvc.arturio.dev/Ashraf-Uzzaman-Mahim) 
 
 ### My Skills & Experiance :
-<table>
+<table style="display:inline-block;">
   <tr><td>✔ HTML</td></tr>
   <tr><td>✔ CSS</td></tr>
   <tr><td>✔ SCSS</td></tr>
@@ -20,7 +20,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ ReactJS</td></tr>
   <tr><td>✔ Tailwind CSS</td></tr>
 </table>
-<table>
+<table style="display:inline-block;">
   <tr><td>✔ PHP</td></tr>
   <tr><td>✔ MySQL</td></tr>
   <tr><td>✔ Photoshop</td></tr>
