@@ -9,6 +9,34 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
+<table>
+  <tr>
+    <td>✔ HTML</td>
+<td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+  </tr>
+  <tr>
+    <td>✔ HTML</td>
+<td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+  </tr>
+  <tr>
+    <td>✔ HTML</td>
+<td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+    <td>✔ HTML</td>
+  </tr>
+  
+  </table>
+
 ✔ HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ React.JS<br>
 ✔ CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ PHP<br>
 ✔ SASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ MySQL<br>
