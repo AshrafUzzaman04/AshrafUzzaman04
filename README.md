@@ -9,7 +9,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
-<table>
+<table cellspacing='0' cellpadding='0' border-spacing='0'>
   <tr>
     <td>✔ HTML</td>
     <td>✔ CSS</td>
