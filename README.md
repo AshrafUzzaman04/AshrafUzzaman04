@@ -10,7 +10,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 ### My Skills & Experiance :
 
 
-<table align="left">
+<table>
   <tr><td>✔ HTML</td></tr>
   <tr><td>✔ CSS</td></tr>
   <tr><td>✔ SCSS</td></tr>
@@ -28,9 +28,9 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ ChatGPT</td></tr>
   <tr><td>✔ Google-fu</td></tr>
   <tr><td>✔ WordPress</td></tr>
-  <tr><td>✔ Microsoft Word</td></tr>
-  <tr><td>✔ Powerpoint</td></tr>
-  <tr><td>✔ Excel</td></tr>  
+  <tr><td>✔ Microsoft Word</td>
+  <td>✔ Powerpoint</td>
+  <td>✔ Excel</td></tr>  
 </table>
 
 
