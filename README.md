@@ -74,7 +74,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-  ## 💰 You can help me by Donating
+<br/>
 
   ## 💰 You can help me by Donating
   
