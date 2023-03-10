@@ -12,28 +12,15 @@ I'm a professional web application designer & developer. DM me to work with me a
 <table>
   <tr>
     <td>✔ HTML</td>
-    </tr>
-  <tr>
     <td>✔ CSS</td>
-    </tr>
-    <tr>
     <td>✔ SCSS</td>
-</tr>
-    <tr>
-<td>✔ Boostrap</td>
-        <tr>  <tr>
+    <td>✔ Boostrap</td>
     <td>✔ Figma to HTML</td>
-    </tr>  <tr>
     <td>✔ PSD to HTML</td>
-    </tr>  <tr>
     <td>✔ JAVASCRIPT</td>
-    <tr>  <tr>
     <td>✔ Jquery</td>
-    </tr>  <tr>
     <td>✔ ReactJS</td>
-    </tr>  <tr>
     <td>✔ Tailwind CSS</td>
-    </tr>
   </tr>
   <tr>  
     <td>✔ PHP</td>
