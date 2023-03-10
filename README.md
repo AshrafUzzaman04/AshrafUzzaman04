@@ -11,26 +11,41 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 
 <table>
-  <tr><td>✔ HTML</td></tr>
-  <tr><td>✔ CSS</td></tr>
-  <tr><td>✔ SCSS</td></tr>
-  <tr><td>✔ Boostrap</td></tr>
-  <tr><td>✔ Figma to HTML</td></tr>
-  <tr><td>✔ PSD to HTML</td></tr>
-  <tr><td>✔ JAVASCRIPT</td></tr>
-  <tr><td>✔ Jquery</td></tr>
-  <tr><td>✔ ReactJS</td></tr>
-  <tr><td>✔ Tailwind CSS</td></tr>
-  <tr><td>✔ PHP</td></tr>
-  <tr><td>✔ MySQL</td></tr>
-  <tr><td>✔ Photoshop</td></tr>
-  <tr><td>✔ Canva</td></tr>
-  <tr><td>✔ ChatGPT</td></tr>
-  <tr><td>✔ Google-fu</td></tr>
-  <tr><td>✔ WordPress</td></tr>
-  <tr><td>✔ Microsoft Word</td>
+  <tr>
+  <td>✔ HTML</td>
+  <tr><td>✔ CSS</td>
+  </tr>
+  <tr>
+  <td>✔ SCSS</td>
+  <td>✔ Boostrap</td>
+  <td>✔ Figma to HTML</td>
+  </tr>
+  <tr>
+  <td>✔ PSD to HTML</td>
+  <td>✔ JAVASCRIPT</td>
+  <td>✔ Jquery</td>
+  </tr>
+  <tr>
+  <td>✔ ReactJS</td>
+  <td>✔ Tailwind CSS</td>
+  <td>✔ PHP</td>
+  </tr>
+  <tr>
+  <td>✔ MySQL</td>
+  <td>✔ Photoshop</td>
+  <td>✔ Canva</td>
+  </tr>
+  
+  <tr>
+  <td>✔ ChatGPT</td>
+  <td>✔ Google-fu</td>
+  <td>✔ WordPress</td>
+  </tr>
+  <tr>
+  <td>✔ Microsoft Word</td>
   <td>✔ Powerpoint</td>
-  <td>✔ Excel</td></tr>  
+  <td>✔ Excel</td>
+  </tr>  
 </table>
 
 
