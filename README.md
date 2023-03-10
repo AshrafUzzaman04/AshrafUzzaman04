@@ -21,8 +21,6 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ Jquery</td></tr>
   <tr><td>✔ ReactJS</td></tr>
   <tr><td>✔ Tailwind CSS</td></tr>
-</tabler
-<table  align="left">
   <tr><td>✔ PHP</td></tr>
   <tr><td>✔ MySQL</td></tr>
   <tr><td>✔ Photoshop</td></tr>
