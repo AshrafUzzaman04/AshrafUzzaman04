@@ -8,6 +8,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 ![Profile views](https://gpvc.arturio.dev/Ashraf-Uzzaman-Mahim) 
 
 ### My Skills & Experiance :
+<style>td:nth-child(odd){width:200px}</style>
 <table style="display:inline-block;">
   <tr><td>✔ HTML</td></tr>
   <tr><td>✔ CSS</td></tr>
