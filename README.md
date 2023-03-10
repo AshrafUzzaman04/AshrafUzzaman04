@@ -13,7 +13,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 <table>
   <tr>
   <td>✔ HTML</td>
-  <tr><td>✔ CSS</td>
+  <td>✔ CSS</td>
   </tr>
   <tr>
   <td>✔ SCSS</td>
