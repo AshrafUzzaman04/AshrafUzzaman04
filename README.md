@@ -9,8 +9,8 @@ I'm a professional web application designer & developer. DM me to work with me a
 
 ### My Skills & Experiance :
 
-<div align="center">
-<table>
+
+<table align="left">
   <tr><td>✔ HTML</td></tr>
   <tr><td>✔ CSS</td></tr>
   <tr><td>✔ SCSS</td></tr>
@@ -21,8 +21,8 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ Jquery</td></tr>
   <tr><td>✔ ReactJS</td></tr>
   <tr><td>✔ Tailwind CSS</td></tr>
-</table>
-<table >
+</tabler
+<table  align="left">
   <tr><td>✔ PHP</td></tr>
   <tr><td>✔ MySQL</td></tr>
   <tr><td>✔ Photoshop</td></tr>
@@ -34,7 +34,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr><td>✔ Powerpoint</td></tr>
   <tr><td>✔ Excel</td></tr>  
 </table>
-  </div>
+
 
 🌱 I’m currently learning Javascript, ReactJs & PHP.
 
