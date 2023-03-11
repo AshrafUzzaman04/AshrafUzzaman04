@@ -76,11 +76,11 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/ashrafuzzaman04/order-summary-component-main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ashrafuzzaman04/API-Generate-Fetch ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=API-Generate-Fetch" />
 </a>
 
 ### ✍️ Random Dev Quote
