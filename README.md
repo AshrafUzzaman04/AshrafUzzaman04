@@ -108,8 +108,20 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
 
 
-### ✍️ Random Dev Quote
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</picture>
 
+
+### ✍️ Random Dev Quote
 <picture>
 <source 
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
@@ -127,16 +139,3 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
  
   
 <p align="center"><a href="https://www.buymeacoffee.com/ashrafuzzaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafuzzaman" /></a></p><br><br>
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true" />
-</picture>
