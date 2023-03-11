@@ -47,7 +47,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   </tr>  
 </table>
 <p align="right">
-  <video width="320" height="240" controls>
+  <video>
   <source src="https://assets1.lottiefiles.com/packages/lf20_btyie10d.json">
 </video>
 </p>
