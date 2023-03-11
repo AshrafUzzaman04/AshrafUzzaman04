@@ -71,6 +71,17 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&theme=white&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+<a align="center" href="https://github.com/ashrafuzzaman04/order-summary-component-main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
+</a></p>
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark&count_private=true"
@@ -82,15 +93,6 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true" />
 </picture>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&theme=white&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<p align="center">
-<a align="center" href="https://github.com/ashrafuzzaman04/order-summary-component-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
-</a></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
