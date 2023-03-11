@@ -119,6 +119,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 
 
 ### ✍️ Random Dev Quote
+<p align="center">
 <picture align="center">
 <source 
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
@@ -130,6 +131,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&align=center" />
 </picture>
+ </p>
 
 <p align="center">
 <br/><h2 align="center">💰 You can help me by Donating</h2></p>
