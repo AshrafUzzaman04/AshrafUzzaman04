@@ -76,9 +76,10 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
 <a align="center" href="https://github.com/ashrafuzzaman04/order-summary-component-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
-</a>
+</a></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
