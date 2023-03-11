@@ -77,7 +77,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
-<sourcealign="center"
+<source align="center"
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
