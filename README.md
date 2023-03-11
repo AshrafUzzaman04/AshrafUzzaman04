@@ -6,7 +6,7 @@
 I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind..
 
 ![Profile views](https://gpvc.arturio.dev/Ashraf-Uzzaman-Mahim) 
-![Profile views](https://gpvc.arturio.dev/ashrafuzzaman04) 
+<!-- ![Profile views](https://gpvc.arturio.dev/ashrafuzzaman04)  -->
 
 <p align="center"><h2 align="center">💻 My Skills & Experiance :</h2></p>
 
