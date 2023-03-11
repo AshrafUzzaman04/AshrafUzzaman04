@@ -73,41 +73,41 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 
 # 📊 GitHub Stats:
 <picture align="center">
-<source 
+<source align="center"
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
-<source
+<sourcealign="center"
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true" />
 </picture>
 
 
 <picture align="center">
-<source 
+<source  align="center"
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
   media="(prefers-color-scheme: dark)"
 />
-<source
+<source align="center"
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light" />
 </picture>
 
 
 <picture align="center">
-<source 
+<source align="center"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
   media="(prefers-color-scheme: dark)"
 />
-<source
+<source align="center"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </picture>
 
 
