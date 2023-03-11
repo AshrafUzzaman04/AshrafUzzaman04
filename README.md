@@ -119,7 +119,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 
 
 ### ✍️ Random Dev Quote
-<picture>
+<picture align="center">
 <source 
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
   media="(prefers-color-scheme: dark)"
@@ -128,7 +128,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </picture>
 <br/>
 <br/>
