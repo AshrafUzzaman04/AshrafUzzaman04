@@ -72,6 +72,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 
 
 # 📊 GitHub Stats:
+<p align="center">
 <picture align="center">
 <source align="center"
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark&count_private=true"
@@ -83,8 +84,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true" />
 </picture>
-
-
+ </p>
+<p align="center">
 <picture >
 <source  
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
@@ -96,8 +97,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light" />
 </picture>
-
-
+ </p>
+<p align="center">
 <picture align="center">
 <source align="center"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
@@ -109,7 +110,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </picture>
-
+ </p>
 
 
 <p align="center">
@@ -117,8 +118,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
 </a></p>
 
+<p align="center"><h2 align="center">✍️ Random Dev Quote</h2></p>
 
-### ✍️ Random Dev Quote
 <p align="center">
 <picture align="center">
 <source 
@@ -131,13 +132,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&align=center" />
 </picture>
-  <br/><br/><br/><br/><br/><br/>
  </p>
 
+<p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
 <p align="center">
-<br/><h2 align="center">💰 You can help me by Donating</h2></p>
- 
-  
-<p align="center">
-
   <a href="https://www.buymeacoffee.com/ashrafuzzaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafuzzaman" /></a></p><br><br>
