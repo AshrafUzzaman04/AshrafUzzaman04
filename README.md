@@ -46,7 +46,11 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ Video Editing</td>
   </tr>  
 </table>
-<p align="right"><img src="https://assets1.lottiefiles.com/packages/lf20_btyie10d.json" /></p>
+<p align="right">
+  <video width="320" height="240" controls>
+  <source src="https://assets1.lottiefiles.com/packages/lf20_btyie10d.json">
+</video>
+</p>
 
 <h3 align="center">🌱 I’m currently learning Javascript, ReactJs & PHP. </h3>
 <p>I enjoy creating visually appealing and functional websites and web applications, solving problems and overcoming technical challenges. I may also enjoy learning new technologies and experimenting with unique design and development techniques to stay up-to-date with the latest trends and best practices in the industry.
