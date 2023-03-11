@@ -133,7 +133,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&align=center" />
 </picture>
  </p>
-<br/>
+
 <p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/ashrafuzzaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafuzzaman" /></a></p><br><br>
