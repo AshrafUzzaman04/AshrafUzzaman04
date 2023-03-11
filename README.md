@@ -14,7 +14,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr>
   <td>✔ HTML</td>
   <td>✔ CSS</td>
-  <td>✔ SCSS</td>
+  <td>✔ SASS</td>
   </tr>
   <tr>
   <td>✔ Boostrap</td>
