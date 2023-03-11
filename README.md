@@ -72,7 +72,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 
 
 # 📊 GitHub Stats:
-<picture>
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark&count_private=true"
   media="(prefers-color-scheme: dark)"
@@ -85,7 +85,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
 
 
-<picture>
+<picture align="center">
 <source 
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
   media="(prefers-color-scheme: dark)"
@@ -98,7 +98,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
 
 
-<picture>
+<picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
   media="(prefers-color-scheme: dark)"
