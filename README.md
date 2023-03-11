@@ -85,8 +85,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
 
 
-<picture align="center">
-<source  align="center"
+<picture >
+<source  
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
   media="(prefers-color-scheme: dark)"
 />
@@ -129,13 +129,14 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </picture>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
  
   
