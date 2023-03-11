@@ -10,7 +10,7 @@ I'm a professional web application designer & developer. DM me to work with me a
 ### My Skills & Experiance :
 
 
-<table>
+<table align="center">
   <tr>
   <td>✔ HTML</td>
   <td>✔ CSS</td>
