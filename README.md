@@ -132,6 +132,10 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
  
   
