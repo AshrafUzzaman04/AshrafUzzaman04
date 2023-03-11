@@ -70,8 +70,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://www.youtube.com/@webcoderashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
 
+<p align="center"><h2 align="center">📊 GitHub Stats:</h2></p>
 
-# 📊 GitHub Stats:
 <p align="center">
 <picture align="center">
 <source align="center"
