@@ -59,7 +59,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ashraf_uz_mahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashraf_uz_mahim" height="30" width="40" /></a>
@@ -69,7 +69,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://www.behance.net/ashrafuzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashrafuzmahim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@webcoderashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
-
+<br/>
 <p align="center"><h2 align="center">📊 GitHub Stats:</h2></p>
 
 <p align="center">
@@ -112,12 +112,12 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
  </p>
 
-
+<br/>
 <p align="center">
 <a align="center" href="https://github.com/ashrafuzzaman04/order-summary-component-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
 </a></p>
-
+<br/>
 <p align="center"><h2 align="center">✍️ Random Dev Quote</h2></p>
 
 <p align="center">
@@ -133,7 +133,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&align=center" />
 </picture>
  </p>
-
+<br/>
 <p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/ashrafuzzaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafuzzaman" /></a></p><br><br>
