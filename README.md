@@ -24,10 +24,15 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr>
   <td>✔ JAVASCRIPT</td>
   <td>✔ Jquery</td>
-  <td>✔ ReactJS</td>
+  <td>✔ Ajax</td>
   </tr>
   <tr>
+  <td>✔ ReactJS</td>
   <td>✔ Tailwind CSS</td>
+  <td>✔ Postman</td>
+  </tr>
+  <tr>
+  <td>✔ API</td>
   <td>✔ PHP</td>
   <td>✔ MySQL</td>
   </tr>
