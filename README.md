@@ -111,13 +111,13 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </picture>
  </p>
-
-<br/>
 <p align="center">
 <a align="center" href="https://github.com/ashrafuzzaman04/order-summary-component-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
 </a></p>
 <br/>
+
+
 <p align="center"><h2 align="center">✍️ Random Dev Quote</h2></p>
 
 <p align="center">
