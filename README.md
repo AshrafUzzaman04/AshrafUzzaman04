@@ -94,6 +94,18 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <img src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true" />
 </picture>
 
+
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light" />
+</picture>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <br/>
