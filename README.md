@@ -138,7 +138,6 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 />
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&align=center" />
 </picture>
-   <br/>
  <br/>
  </p>
 
