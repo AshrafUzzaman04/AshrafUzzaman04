@@ -51,6 +51,9 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ Excel</td>
   <td>✔ Video Editing</td>
   </tr>  
+  <tr>
+  <td>✔ Facebook Marketing</td>
+  </tr>  
 </table>
 
 <h3 align="center">🌱 I’m currently learning Javascript, ReactJs & PHP. </h3>
