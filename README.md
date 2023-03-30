@@ -37,22 +37,24 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ MySQL</td>
   </tr>
   <tr>
+  <td>✔ Laravel</td>
+  <td>✔ WordPress</td>
   <td>✔ Photoshop</td>
+  
+  </tr>
+  <tr>
+  <td>✔ Google-fu</td>
   <td>✔ Canva</td>
   <td>✔ ChatGPT</td>
   </tr>
   <tr>
-  <td>✔ Google-fu</td>
-  <td>✔ WordPress</td>
-  <td>✔ Microsoft Word</td>
-  </tr>
-  <tr>
   <td>✔ Powerpoint</td>
   <td>✔ Excel</td>
-  <td>✔ Video Editing</td>
+  <td>✔ Microsoft Word</td>
   </tr>  
   <tr>
   <td>✔ Facebook Marketing</td>
+  <td>✔ Video Editing</td>
   </tr>  
 </table>
 
