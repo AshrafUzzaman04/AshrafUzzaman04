@@ -14,29 +14,30 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr>
   <td>✔ HTML</td>
   <td>✔ CSS</td>
-  <td>✔ SASS</td>
+  <td>✔ CSS Nasting</td>
   </tr>
   <tr>
+  <td>✔ SASS</td>
   <td>✔ Boostrap</td>
   <td>✔ Figma to HTML</td>
-  <td>✔ PSD to HTML</td>
   </tr>
   <tr>
+   <td>✔ PSD to HTML</td>
   <td>✔ JAVASCRIPT</td>
   <td>✔ Jquery</td>
-  <td>✔ Ajax</td>
   </tr>
   <tr>
+  <td>✔ Ajax</td>
   <td>✔ ReactJS</td>
   <td>✔ Tailwind CSS</td>
-  <td>✔ Postman</td>
   </tr>
   <tr>
+  <td>✔ Postman</td>
   <td>✔ API</td>
   <td>✔ PHP</td>
-  <td>✔ MySQL</td>
   </tr>
   <tr>
+  <td>✔ MySQL</td>
   <td>✔ Laravel</td>
   <td>✔ WordPress</td>
   <td>✔ Photoshop</td>
@@ -50,13 +51,16 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr>
   <td>✔ Powerpoint</td>
   <td>✔ Excel</td>
-  <td>✔ Microsoft Word</td>
   </tr>  
   <tr>
+  <td>✔ Microsoft Word</td>
   <td>✔ Facebook Marketing</td>
   <td>✔ Video Editing</td>
-  <td>✔ Adobe Premiere Pro</td>
   </tr>  
+  <tr>
+  <td>✔ Adobe Premiere Pro</td>
+  <td>✔ SEO</td>
+  </tr>
 </table>
 
 <h3 align="center">🌱 I’m currently learning Javascript, ReactJs & PHP. </h3>
