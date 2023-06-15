@@ -22,7 +22,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ Figma to HTML</td>
   </tr>
   <tr>
-   <td>✔ PSD to HTML</td>
+  <td>✔ PSD to HTML</td>
   <td>✔ JAVASCRIPT</td>
   <td>✔ Jquery</td>
   </tr>
@@ -40,8 +40,6 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ MySQL</td>
   <td>✔ Laravel</td>
   <td>✔ WordPress</td>
-  <td>✔ Photoshop</td>
-  
   </tr>
   <tr>
   <td>✔ Google-fu</td>
@@ -49,6 +47,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ ChatGPT</td>
   </tr>
   <tr>
+  <td>✔ Photoshop (PS)</td>
   <td>✔ Powerpoint</td>
   <td>✔ Excel</td>
   </tr>  
