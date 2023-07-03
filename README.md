@@ -31,12 +31,12 @@ I'm a professional web application designer & developer. DM me to work with me a
   <tr>
   <td>✔ Postman</td>
   <td>✔ API</td>
-  <td>✔ PHP</td>
+  <td>✔ PHP Expert</td>
   </tr>
   <tr>
   <td>✔ MySQL</td>
   <td>✔ Laravel</td>
-  <td>✔ WordPress</td>
+  <td>✔ WordPress Expert</td>
   </tr>
   <tr>
   <td>✔ Google-fu</td>
