@@ -1,4 +1,4 @@
-![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1691625600&v=beta&t=R8JwB6VIgUf99G0zGFrmGoLOmTbTbhrwBY3Jwfz31dw)
+![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519036462?e=1697068800&v=beta&t=y8ykR3IrooLj3oN9b2Y7EMtQlzwTiBSycTNN5GXJUhQ)
 
 ## Hi, Assalamualaikum my name is Ashraf Uzzaman👋
 #### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
@@ -79,7 +79,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://fb.com/ashraf.uzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraf.uzmahim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ashrafuzzaman04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraf_uzzaman_mahim" height="30" width="40" /></a>
 <a href="https://www.behance.net/ashrafuzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashrafuzmahim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@webcoderashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@webcoder-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
 <br/>
 <p align="center"><h2 align="center">📊 GitHub Stats:</h2></p>
