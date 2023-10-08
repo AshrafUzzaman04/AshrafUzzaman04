@@ -60,8 +60,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   </tr>
   <tr>
   <td>✔ Google Bird</td>
-  <td>✔ Adobe Premiere Pro</td>
-  <td>✔ SEO</td>
+  <td>✔ CapCut</td>
   </tr>
 </table>
 
