@@ -20,40 +20,46 @@ I'm a professional web application designer & developer. DM me to work with me a
   </tr>
   <tr>
   <td>✔ PSD to HTML</td>
+  <td>✔ Tailwind CSS</td>
   <td>✔ JAVASCRIPT</td>
-  <td>✔ Jquery</td>
   </tr>
   <tr>
+  <td>✔ Jquery</td>
   <td>✔ Ajax</td>
   <td>✔ ReactJS</td>
-  <td>✔ Tailwind CSS</td>
   </tr>
   <tr>
+  <td>✔ Vue js</td>
   <td>✔ Postman</td>
   <td>✔ API</td>
-  <td>✔ PHP Expert</td>
   </tr>
   <tr>
+  <td>✔ PHP Expert</td>
   <td>✔ MySQL</td>
   <td>✔ Laravel</td>
-  <td>✔ WordPress Expert</td>
   </tr>
   <tr>
+  <td>✔ WordPress Expert</td>
   <td>✔ Google-fu</td>
   <td>✔ Canva</td>
-  <td>✔ ChatGPT</td>
   </tr>
   <tr>
+  <td>✔ ChatGPT</td>
   <td>✔ Photoshop (PS)</td>
   <td>✔ Powerpoint</td>
-  <td>✔ Excel</td>
   </tr>  
   <tr>
+  <td>✔ Excel</td>
   <td>✔ Microsoft Word</td>
   <td>✔ Facebook Marketing</td>
-  <td>✔ Video Editing</td>
   </tr>  
   <tr>
+  <td>✔ Video Editing</td>
+  <td>✔ Adobe Premiere Pro</td>
+  <td>✔ SEO</td>
+  </tr>
+  <tr>
+  <td>✔ Google Bird</td>
   <td>✔ Adobe Premiere Pro</td>
   <td>✔ SEO</td>
   </tr>
