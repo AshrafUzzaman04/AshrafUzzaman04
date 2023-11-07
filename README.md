@@ -39,26 +39,27 @@ I'm a professional web application designer & developer. DM me to work with me a
   <td>✔ Laravel</td>
   </tr>
   <tr>
+  <td>✔ Inertia Js</td>
   <td>✔ WordPress Expert</td>
   <td>✔ Google-fu</td>
-  <td>✔ Canva</td>
   </tr>
   <tr>
+  <td>✔ Canva</td>
   <td>✔ ChatGPT</td>
   <td>✔ Photoshop (PS)</td>
-  <td>✔ Powerpoint</td>
   </tr>  
   <tr>
+  <td>✔ Powerpoint</td>
   <td>✔ Excel</td>
   <td>✔ Microsoft Word</td>
-  <td>✔ Facebook Marketing</td>
   </tr>  
   <tr>
+  <td>✔ Facebook Marketing</td>
   <td>✔ Video Editing</td>
   <td>✔ Adobe Premiere Pro</td>
-  <td>✔ SEO</td>
   </tr>
   <tr>
+  <td>✔ SEO</td>
   <td>✔ Google Bird</td>
   <td>✔ CapCut</td>
   </tr>
