@@ -60,7 +60,7 @@ I'm a professional web application designer & developer. DM me to work with me a
   </tr>
   <tr>
   <td>✔ SEO</td>
-  <td>✔ Google Bird</td>
+  <td>✔ Google Bard</td>
   <td>✔ CapCut</td>
   </tr>
 </table>
