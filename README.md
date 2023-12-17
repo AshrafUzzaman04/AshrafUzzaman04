@@ -1,6 +1,6 @@
 ![Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519077202?e=1708560000&v=beta&t=YLRmXrT3w7mWkRjVxrVUlQXGQSNCj872US0k4DEiD-o)
 
-## Hi, Assalamualaikum my name is [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ashraf+Uzzaman;Ashraf+Uzzaman)](https://git.io/typing-svg)👋
+## Hi, Assalamualaikum my name is Ashraf Uzzaman👋
 
 #### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
 
