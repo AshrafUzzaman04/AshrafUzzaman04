@@ -97,14 +97,12 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://www.youtube.com/@webcoder-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
 
-<p align="start"><h2 align="start">📊 GitHub Stats:</h2></p>
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AshrafUzzaman04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
-<p align="start"><h2 align="start">📊 GitHub Stats:</h2></p>
-
 <p align="start">
 <source align="start"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
