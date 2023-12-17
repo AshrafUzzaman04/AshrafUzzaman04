@@ -97,6 +97,10 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://www.youtube.com/@webcoder-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AshrafUzzaman04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 <p align="start"><h2 align="start">📊 GitHub Stats:</h2></p>
@@ -147,7 +151,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <br/>
 
  ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
  ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
