@@ -97,7 +97,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://www.youtube.com/@webcoder-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+<p align="start"><h2 align="start">📊 GitHub Stats:</h2></p>
 ![](https://github-readme-stats.vercel.app/api?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AshrafUzzaman04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -106,37 +106,6 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <p align="start"><h2 align="start">📊 GitHub Stats:</h2></p>
 
 <p align="start">
-<picture align="start">
-<source align="start"
-  srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&theme=dark&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source align="start"
-  srcset="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafuzzaman04&show_icons=true&count_private=true" />
-</picture>
- </p>
-<p align="start">
-<picture >
-<source  
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
-  media="(prefers-color-scheme: dark)"
-/>
-<source align="start"
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafuzzaman04&theme=light" />
-</picture>
- </p>
-<p align="start">
-<picture align="start">
-<source align="start"
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
 <source align="start"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
