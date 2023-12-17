@@ -21,7 +21,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 
 [![](https://visitcount.itsvg.in/api?id=AshrafUzzaman04&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="start"><h2 align="center">💻 My Skills & Experience :</h2></p>
+<p align="start"><h2 align="start">💻 My Skills & Experience :</h2></p>
 
 <table align="start">
   <tr>
@@ -163,6 +163,9 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </picture>
  <br/>
  </p>
+
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
