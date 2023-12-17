@@ -165,6 +165,9 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 <p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
 <p align="center">
