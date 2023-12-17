@@ -86,6 +86,25 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <a href="https://www.behance.net/ashrafuzmahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ashrafuzmahim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@webcoder-ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderashraf" height="30" width="40" /></a>
 </p>
+
+
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashraf.uzmahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashrafuzzaman04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashraf-uzzaman) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AshrafUzzaman04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashraf_uz_mahim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@webcoder-ashraf) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 <p align="center"><h2 align="center">📊 GitHub Stats:</h2></p>
 
