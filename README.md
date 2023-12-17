@@ -102,21 +102,6 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AshrafUzzaman04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafUzzaman04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
-<p align="start">
-<source align="start"
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</picture>
- </p>
-<p align="start">
-<a align="start" href="https://github.com/ashrafuzzaman04/order-summary-component-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafuzzaman04&repo=order-summary-component-main" />
-</a></p>
-<br/>
-
  ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
