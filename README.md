@@ -107,3 +107,5 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 <p align="start"><h2 align="start">💰 Buy Me A Coffee.</h2></p>
 <p align="start">
 <a href="https://www.buymeacoffee.com/ashrafuzzaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafuzzaman" /></a></p><br><br>
+
+![snake gif](https://github.com/AshrafUzzaman04/AshrafUzzaman04/blob/output/github-contribution-grid-snake.gif)
