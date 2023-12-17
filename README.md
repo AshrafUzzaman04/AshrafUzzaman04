@@ -137,7 +137,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafuzzaman04&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </picture>
  </p>
 <p align="start">
@@ -146,16 +146,15 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </a></p>
 <br/>
 
- ### ✍️ Random Dev Quote
+ ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
- ## 🏆 GitHub Trophies
+ ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-<p align="start"><h2 align="start">💰 You can help me by Donating</h2></p>
+<p align="start"><h2 align="start">💰 Buy Me A Coffee.</h2></p>
 <p align="start">
 <a href="https://www.buymeacoffee.com/ashrafuzzaman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafuzzaman" /></a></p><br><br>
