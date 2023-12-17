@@ -146,26 +146,8 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
 </a></p>
 <br/>
 
-
-<p align="start"><h2 align="start">✍️ Random Dev Quote</h2></p>
-
-<p align="start">
-<picture align="start">
-<source 
-  srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="start" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&align=center" />
-</picture>
- <br/>
- </p>
-
  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
