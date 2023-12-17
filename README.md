@@ -163,7 +163,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
  </p>
 
  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AshrafUzzaman04&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 
 <p align="center"><h2 align="center">💰 You can help me by Donating</h2></p>
