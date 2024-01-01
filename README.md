@@ -43,7 +43,7 @@ Please don't hesitate to reach out to me if you have any questions or feedback. 
   <td>✔ ReactJS</td>
   </tr>
   <tr>
-  <td>✔ Vue js</td>
+  <td>✔ Vue Js</td>
   <td>✔ Postman</td>
   <td>✔ API</td>
   </tr>
