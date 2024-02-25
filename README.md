@@ -1,4 +1,4 @@
-![Web Designer & Developer | CEO at Rank Trends | Full-Stack Web Application Developer | Programming Lover.]([https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519077202?e=1708560000&v=beta&t=YLRmXrT3w7mWkRjVxrVUlQXGQSNCj872US0k4DEiD-o](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519077202))
+![Web Designer & Developer | CEO at Rank Trends | Full-Stack Web Application Developer | Programming Lover.](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519077202?e=1714608000&v=beta&t=JGxD4PbwXw4f36MwzYaw4_hiLHVQQXGqR45IU_ghLMU)
 
 
 
