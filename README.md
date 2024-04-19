@@ -1,15 +1,14 @@
 ![Web Designer & Developer | CEO at Rank Trends | Full-Stack Web Application Developer | Programming Lover.](https://media.licdn.com/dms/image/C5616AQEXa0xHx4aeeA/profile-displaybackgroundimage-shrink_350_1400/0/1668519077202?e=1714608000&v=beta&t=JGxD4PbwXw4f36MwzYaw4_hiLHVQQXGqR45IU_ghLMU)
 
 
-
 ## Hi, Assalamualaikum my name is Ashraf Uzzaman👋
 
-#### Web Designer & Developer | Full-Stack Web Application Developer | Programming Lover.
+#### Rank Trends CEO & Expert Full Stack Web Application Developer | Vue & Laravel Developer
 
-I'm a professional web application designer & developer. DM me to work with me and for the best experience. I am definitely the best of my kind.
+A dedicated Full Stack Web Application Developer with a wide-ranging skill set covering both front-end and back-end technologies.
 
 <h3 align="start">🌱 I’m currently learning Vue Js & Laravel. </h3>
-<p>I enjoy creating visually appealing and functional websites and web applications, solving problems, and overcoming technical challenges. I may also enjoy learning new technologies and experimenting with unique design and development techniques to stay up-to-date with the latest trends and best practices in the industry.
+<p>I enjoy creating visually appealing and functional websites and web applications, solving problems, and overcoming technical challenges. I may also enjoy learning new technologies and experimenting with unique design and development techniques to stay up-to-date with the industry's latest trends and best practices.
 
 I appreciate the time you took to explore my profile and hope you found it informative and engaging.
 Please don't hesitate to reach out to me if you have any questions or feedback. I'm always happy to hear from visitors like you.</p>
