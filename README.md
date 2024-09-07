@@ -8,7 +8,6 @@
 
 A dedicated Full Stack Web Application Developer with a wide-ranging skill set covering both front-end and back-end technologies.
 
-<h3 align="start">🌱 I’m currently learning Vue Js & Laravel. </h3>
 <p>I enjoy creating visually appealing and functional websites and web applications, solving problems, and overcoming technical challenges. I may also enjoy learning new technologies and experimenting with unique design and development techniques to stay up-to-date with the industry's latest trends and best practices.
 
 I appreciate the time you took to explore my profile and hope you found it informative and engaging.
