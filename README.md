@@ -1,4 +1,4 @@
- <p align="left"><b><pwn>🔴 🟡 🟢</pwn></b></p>
+![Blue and Brown Anstract Shape  (LinkedIn Banner)](https://github.com/user-attachments/assets/9dec1281-db43-4c19-a784-dec62c454765) <p align="left"><b><pwn>🔴 🟡 🟢</pwn></b></p>
 ![Web Designer & Developer | CEO at Rank Trends | Full-Stack Web Application Developer | Programming Lover.](https://scontent.fdac176-1.fna.fbcdn.net/v/t39.30808-6/307121822_201991202174369_5656244943705780935_n.png?stp=dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeElV30lLTgldjuUVEYrajVr_AFPhFMuZUD8AU-EUy5lQOiP0c__6KwzeYFmU7TLZ4gldMkgQrTK-NuPTlehp_Gx&_nc_ohc=Wpn0KdfvWcMQ7kNvgGaTlwQ&_nc_ht=scontent.fdac176-1.fna&oh=00_AYCnKdHBXFBeHD-UiCIX1DZwGxYprVHpov_kqxj80eEvYw&oe=6696B4D0)
 
 
