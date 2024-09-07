@@ -1,6 +1,8 @@
 <p align="left"><b><pwn>🔴 🟡 🟢</pwn></b></p>
-![Web Designer & Developer | CEO at Rank Trends | Full-Stack Web Application Developer | Programming Lover.]
-file:///media/ashraf/New%20Volume/pictures/desgin/web-developer-ashraf-uzzaman.png
+![Web Designer & Developer | CEO at Rank Trends | Full-Stack Web App
+lication Developer | Programming Lover.]
+![web-developer-ashraf-uzzaman](https://github.com/user-attachments/assets/dbea7f2d-b702-457b-ae0d-f8a43c4b530e)
+
 
 
 
